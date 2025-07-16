@@ -1,5 +1,29 @@
 # Online Examination System
 
+[![PHP](https://img.shields.io/badge/PHP-7.4%2B-blue.svg)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-blue.svg)](https://www.mysql.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5-green.svg)](https://getbootstrap.com/)
+[![Ajax](https://img.shields.io/badge/Ajax-supported-brightgreen.svg)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
+[![XAMPP](https://img.shields.io/badge/XAMPP-supported-lightgrey.svg)](https://www.apachefriends.org/index.html)
+[![License: Open](https://img.shields.io/badge/license-Open-lightgrey.svg)](#)
+
+- [Online Examination System](#online-examination-system)
+  - [Contexte du projet](#contexte-du-projet)
+  - [Objectifs](#objectifs)
+  - [Architecture du système](#architecture-du-système)
+  - [Technologies utilisées](#technologies-utilisées)
+  - [Fonctionnalités principales](#fonctionnalités-principales)
+  - [Modélisation du système](#modélisation-du-système)
+  - [Interfaces principales](#interfaces-principales)
+  - [Outils de développement](#outils-de-développement)
+  - [Implémentation](#implémentation)
+  - [Difficultés rencontrées](#difficultés-rencontrées)
+  - [Conclusion](#conclusion)
+  - [Bibliographie & Webographie](#bibliographie--webographie)
+
 ## Contexte du projet
 Projet réalisé en binôme dans le cadre du **Projet Tutoré Informatique** à l'ENI-ABT. L'objectif était de concevoir un système d'examen en ligne permettant aux apprenants de passer des tests à distance via des questionnaires à choix multiples.
 
